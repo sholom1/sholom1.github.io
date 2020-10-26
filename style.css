@@ -17,7 +17,7 @@ h6 {
 	width: 10rem;
 	display: block;
 	margin: auto;
-	margin-top: 46px;
+	margin-top: 62px;
 }
 .header {
 	background-color: cadetblue;
@@ -26,7 +26,10 @@ h6 {
 .content {
 	margin-left: 25%;
 	margin-right: 25%;
-	font-size: 24px;
+	margin-top: 96px;
+}
+#about {
+	font-size: 25px;
 }
 p {
 	font-family: Arial, Helvetica, sans-serif;
