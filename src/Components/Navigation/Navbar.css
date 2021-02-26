@@ -16,3 +16,13 @@
 .link:active {
 	background-color: rgb(37, 37, 37);
 }
+
+.leftContainer {
+	display: flex;
+	justify-content: left;
+}
+
+.rightContainer {
+	display: flex;
+	justify-content: flex-end;
+}
