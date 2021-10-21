@@ -1,7 +1,7 @@
-.container {
+.navbarContainer {
 	display: flex;
 	justify-content: space-between;
-	background-color: darkgray;
+	background-color: rgb(58, 58, 58);
 }
 .link {
 	color: white;

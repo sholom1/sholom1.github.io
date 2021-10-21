@@ -4,7 +4,7 @@ import './Navbar.css';
 
 function Navbar() {
 	return (
-		<div className="container">
+		<div className="navbarContainer">
 			<div className="rightContainer">
 				<Link className="link" to="/">
 					Home
